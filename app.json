@@ -1,0 +1,14 @@
+{
+	"name": "Quotes Telegram Bot",
+	"description": "A Telegram Bot which will sent Random Quotes from a Public API.",
+	"repository": "https://github.com/cachecleanerjeet/QuotesTeleBot",
+	"logo": "https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokustatic%2Fqtcircle.png?alt=media&token=ae8d180b-5212-4f0c-99d2-4eba83d48a4d",
+	"keywords": ["telegram-bot", "heroku", "bot", "python", "python-telegram-bot", "webhook"],
+  
+    "env": {
+    "API_KEY": {
+	"description": "API Key of Your Telegram Bot",
+	"value":""
+		}
+   }	   
+}

@@ -22,7 +22,7 @@ async function handleRequest(request) {
 		const acceptHeader = request.headers.get('Accept');
 
 		const quotes = JSON.parse(
-			await (await fetch('https://raw.githubusercontent.com/ajzbc/kanye.rest/quotes/quotes.json')).text()
+			await (await fetch('https://raw.githubusercontent.com/cachecleanerjeet/QuotesTeleBot/backend/quotes.json')).text()
 		);
 
 		const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];

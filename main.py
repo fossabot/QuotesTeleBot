@@ -18,7 +18,7 @@ def msg_receive_(msg, cmd, ln):
 	elif ('ping' in cmd) is True: 
 		params['text'] = 'Everything is alright'
 	elif ('quote' in cmd) is True: 
-		url = requests.get('https://api.kanye.rest/')
+		url = requests.get('https://quotesapi.tuhinwin.workers.dev/')
 		params['text'] = '{}'.format(url.json()["quote"] )
 
 	return flask.Response(response=json.dumps(params), headers={'Content-Type':'application/json'},status=200)

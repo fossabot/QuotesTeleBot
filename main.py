@@ -2,7 +2,7 @@ import flask, os, sys, json, requests
 app = flask.Flask('QUOTE')
 app.config.from_object('settings')
 cfg = app.config
-QUOTE_API_URL = os.environ['QUOTE_API_URL']
+QUOTE_API_URL = "https://quotesapi.tuhinwin.workers.dev/"
 
 def msg_receive_(msg, cmd, ln):
 	params = dict(

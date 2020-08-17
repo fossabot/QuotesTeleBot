@@ -16,8 +16,12 @@
 **Installation:**<br>
 ##### *i. Deploy to Heroku:*<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku)<br>
-Open the url in Browser to Start your Application:<br>
+**Open the url in Browser to Start your Application (Unless won't work):**<br>
 *[Your Application Url]/start*<br>
+   
+    ## example
+    http://yourbot.herokuapp.com/start
+    
 ##### *ii. [Manually Deploy to Heroku](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku "Manually Deploy to Heroku")*<br>
 ##### *iii. Deploy to VPS or Local Machine for Development:*<br>
 a. Clone the Repo<br>
@@ -50,12 +54,15 @@ f. Run the BOT:<br>
 
     python3 run.py 
 
-**Start Frontend:**<br>
+**Start Frontend (Unless won't work):**<br>
 
 *[Your Application Url]/start*
 
-    ## example
+    ## examples
     http://0.0.0.0:3000/start
+    http://70.74.251.42/start
+    http://yourbot.herokuapp.com/start
+    http://server.hin.life:3000/start
     
 <br><br>
 

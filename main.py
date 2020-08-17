@@ -2,6 +2,7 @@ import flask, os, sys, json, requests
 app = flask.Flask('QUOTE')
 app.config.from_object('settings')
 cfg = app.config
+QUOTE_API_URL = os.environ['QUOTE_API_URL']
 
 def msg_receive_(msg, cmd, ln):
 	params = dict(
@@ -18,7 +19,7 @@ def msg_receive_(msg, cmd, ln):
 	elif ('ping' in cmd) is True: 
 		params['text'] = 'Everything is alright'
 	elif ('quote' in cmd) is True: 
-		url = requests.get('https://quotesapi.tuhinwin.workers.dev/')
+		url = requests.get(QUOTE_API_URL)
 		params['text'] = '{}'.format(url.json()["quote"] )
 
 	return flask.Response(response=json.dumps(params), headers={'Content-Type':'application/json'},status=200)

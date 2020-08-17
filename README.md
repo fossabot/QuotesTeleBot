@@ -20,13 +20,13 @@
 ##### *ii. [Manually Deploy to Heroku](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku "Manually Deploy to Heroku")*<br>
 ##### *iii. Deploy to VPS or for Development:*<br>
 *a. Clone the Repo*<br>
-*b Go to <tt>QuotesTeleBot</tt> Directory*<br>
+*b. Go to <tt>QuotesTeleBot</tt> Directory*<br>
 *c. Install the Dependencies:*<br>
 
     pip3 install -r requirements.txt
 <br>
-*d. Open <tt>settings.py</tt> and replace <tt>YOUR-API-KEY</tt> in <tt>Bot_API_KEY</tt> Section.*<br>
-*e. Open <tt>main.py</tt> and change <tt>QUOTE_API_URL</tt> if You want that Bot works with your own Backend Server.*<br>
+*d. Open <tt>settings.py</tt> and replace <tt>YOUR-API-KEY</tt> in <tt>Bot_API_KEY</tt> Section*<br>
+*e. Open <tt>main.py</tt> and change <tt>QUOTE_API_URL</tt> if You want that Bot works with your own Backend Server*<br>
 *f. Run the BOT:*<br>
 
     python3 run.py 

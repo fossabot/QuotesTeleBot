@@ -17,8 +17,12 @@
 **Like That:**
 ![Config Vars](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fqtbotconvar.png?alt=media&token=8fe45d02-c09e-4153-bac4-056dd0b54cb4)
 <br>
-Open the url in Browser to Start your Application:<br>
-*[Your Application Url]/start*<br><br>
+**Open the following url in Browser to Start your Application (Unless won't work):**<br>
+*[Your Application Url]/start*<br>
+   
+    ## example
+    http://yourbot.herokuapp.com/start
+    
 
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>

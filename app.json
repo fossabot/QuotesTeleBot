@@ -11,7 +11,7 @@
 	"value":""
            },
      "QUOTE_API_URL": {
-	"description": "API URL of Quote Backend Server, You can use the Default.",
+	"description": "API URL of Quote Backend Server, You can use the Default",
 	"value":"https://quotesapi.tuhinwin.workers.dev/"
         }
    }	

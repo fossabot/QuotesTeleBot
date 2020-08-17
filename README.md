@@ -2,8 +2,8 @@
 **Send a message to this Bot :**<br>
 https://t.me/QuotesTeleBot <br><br>
 **This Project has Two Parts :**<br>
-*i. [Frontend](#Frontend "Frontend")*<br>
-*ii. [Backend](#Backend "Backend")* <br><br>
+*i. Frontend*<br>
+*ii. Backend* <br><br>
 ###  Backend
 **Brief:**<br>
 *We need a server for API  Request. So I prefere Cloudflare Workers.*<br>

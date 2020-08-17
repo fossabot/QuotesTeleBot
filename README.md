@@ -66,7 +66,7 @@ f. Run the BOT:<br>
     
 <br><br>
 ### LICENSE
-**Apache License 2.0** <br><br>
+**[Apache License 2.0](https://github.com/cachecleanerjeet/QuotesTeleBot/blob/master/LICENSE "Apache License 2.0")** <br><br>
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
 

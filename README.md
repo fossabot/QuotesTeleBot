@@ -16,7 +16,10 @@
 <br><br>
 **Like That:**
 ![Config Vars](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fqtbotconvar.png?alt=media&token=8fe45d02-c09e-4153-bac4-056dd0b54cb4)
-<br><br>
+<br>
+Open the url in Browser to Start your Application:<br>
+*[Your Application Url]/start*<br><br>
+
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
 

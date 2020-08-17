@@ -1,6 +1,7 @@
 ## Quotes Telegram Bot <br>
 
- [![Send Message](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fbutton.png?alt=media&token=844f23bf-e6c9-48c6-84c6-8c50a7e922a2)](https://t.me/QuotesTeleBot) <br><br>
+ [![Send Message](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fbutton.png?alt=media&token=844f23bf-e6c9-48c6-84c6-8c50a7e922a2)](https://t.me/QuotesTeleBot) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FQuotesTeleBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FQuotesTeleBot?ref=badge_shield)
+<br><br>
 **This Project has Two Parts :**<br>
 *i. Frontend*<br>
 *ii. Backend* <br><br>
@@ -76,3 +77,7 @@ https://github.com/cachecleanerjeet<br>
 https://blog.iamtuhin.ga<br><br>
 
 ![Quote Telegram Bot](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fqtbotcirhq.png?alt=media&token=033bcdd7-4fde-4337-a76f-89f18ee4d53d)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FQuotesTeleBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FQuotesTeleBot?ref=badge_large)

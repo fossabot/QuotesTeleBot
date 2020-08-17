@@ -43,7 +43,7 @@ e. Open <tt>main.py</tt> and change <tt>QUOTE_API_URL</tt> if You want that Bot 
 
     ## Previously
     QUOTE_API_URL = "https://quotesapi.tuhinwin.workers.dev/"
-    ## After Enter your own Key
+    ## After enter your own API url
     QUOTE_API_URL = "http://api.yourdomain.com/"
 
 f. Run the BOT:<br>

@@ -16,7 +16,7 @@
 **Installation:**
 #### *i. Deploy to Heroku:*<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku)<br>
-**Open the url in Browser to Start your Application (Unless won't work):**<br>
+**Open the following url in Browser to Start your Application (Unless won't work):**<br>
 *[Your Application Url]/start*<br>
    
     ## example

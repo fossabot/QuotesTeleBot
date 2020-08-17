@@ -21,6 +21,9 @@ Open the url in Browser to Start your Application:<br>
 ##### *ii. [Manually Deploy to Heroku](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku "Manually Deploy to Heroku")*<br>
 ##### *iii. Deploy to VPS or Local Machine for Development:*<br>
 a. Clone the Repo<br>
+
+    git clone https://github.com/cachecleanerjeet/QuotesTeleBot.git
+
 b. Go to <tt>QuotesTeleBot</tt> Directory<br>
 c. Install the Dependencies:<br>
 

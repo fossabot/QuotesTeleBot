@@ -18,7 +18,7 @@
 ##### *i. Deploy to Heroku:*<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku)<br>
 ##### *ii. [Manually Deploy to Heroku](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku "Manually Deploy to Heroku")*<br>
-##### *iii. Deploy to VPS or for Development:*<br>
+##### *iii. Deploy to VPS or Local Machine for Development:*<br>
 a. Clone the Repo<br>
 b. Go to <tt>QuotesTeleBot</tt> Directory*<br>
 c. Install the Dependencies:<br>
@@ -31,7 +31,7 @@ f. Run the BOT:<br>
 
     python3 run.py 
 <br><br>
-**Start Frontend: **<br>
+**Start Frontend:**<br>
 
 *[Your Application Url]/start*
 

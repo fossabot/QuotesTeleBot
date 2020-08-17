@@ -22,7 +22,7 @@ Open the url in Browser to Start your Application:<br>
 ##### *ii. [Manually Deploy to Heroku](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku "Manually Deploy to Heroku")*<br>
 ##### *iii. Deploy to VPS or Local Machine for Development:*<br>
 a. Clone the Repo<br>
-b. Go to <tt>QuotesTeleBot</tt> Directory*<br>
+b. Go to <tt>QuotesTeleBot</tt> Directory<br>
 c. Install the Dependencies:<br>
 
     pip3 install -r requirements.txt

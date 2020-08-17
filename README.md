@@ -40,4 +40,14 @@ f. Run the BOT:<br>
     ## example
     http://0.0.0.0:3000/start
     
+<br><br>
+
+>Website `https://tu.hin.life`.<br>
+>My Social:<br><br>
+
+https://fb.me/jeeetpaul<br>
+https://www.instagram.com/jeeetpaul<br>
+https://www.youtube.com/channel/UCa4FMtLpYcOBtjKOZgzTFNA<br>
+https://github.com/cachecleanerjeet<br>
+https://blog.iamtuhin.ga<br><br><br>
 

@@ -68,6 +68,7 @@ f. Run the BOT:<br>
 
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
+**[Apache License 2.0](https://github.com/cachecleanerjeet/QuotesTeleBot/blob/master/LICENSE "Apache License 2.0")** <br><br>
 
 https://fb.me/jeeetpaul<br>
 https://www.instagram.com/jeeetpaul<br>

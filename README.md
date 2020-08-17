@@ -17,6 +17,8 @@
 **Installation:**<br>
 ##### *i. Deploy to Heroku:*<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku)<br>
+Open the url in Browser to Start your Application:<br>
+*[Your Application Url]/start*<br>
 ##### *ii. [Manually Deploy to Heroku](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/heroku "Manually Deploy to Heroku")*<br>
 ##### *iii. Deploy to VPS or Local Machine for Development:*<br>
 a. Clone the Repo<br>

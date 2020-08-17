@@ -25,8 +25,8 @@
 
     pip3 install -r requirements.txt
 <br>
-*d. Open <tt>settings.py</tt> and  replace <tt>YOUR-API-KEY</tt> in  <tt>Bot_API_KEY</tt> Section (Telegram Bot API KEY).*<br>
-*e. Open <tt>main.py</tt> and  change <tt>QUOTE_API_URL</tt> if You want that Bot works with your own Backend Server (Backend Server Url).*<br>
+*d. Open <tt>settings.py</tt> and replace <tt>YOUR-API-KEY</tt> in <tt>Bot_API_KEY</tt> Section.* <br>
+*e. Open <tt>main.py</tt> and change <tt>QUOTE_API_URL</tt> if You want that Bot works with your own Backend Server.*<br>
 *f. Run the BOT:*<br>
 
     python3 run.py 

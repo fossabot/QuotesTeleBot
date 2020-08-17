@@ -11,7 +11,7 @@ async function handleRequest(request) {
 		if (url.searchParams.get('format')) {
 			formatParameter = url.searchParams.get('format').toLocaleLowerCase().split('/')[0];
 			if (formatParameter != 'json' && formatParameter != 'text') {
-				return new Response('Invalid format parameter. Refer to https://kanye.rest', {
+				return new Response('Invalid format parameter. Refer to https://tu.hin.life', {
 					status: 400,
 					headers: {
 						...headers

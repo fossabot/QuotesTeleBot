@@ -1,8 +1,8 @@
 ## Quotes Telegram Bot
 <br>
-*Send a message to this BOT:*<br>
+#### Send a message to this Bot <br>
 https://t.me/QuotesTeleBot
-<br>
+<br>https://t.me/QuotesTeleBot
 
 **This Project has Two Parts :**<br>
 *i. [Frontend](#Frontend "Frontend")*<br>

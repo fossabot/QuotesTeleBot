@@ -25,12 +25,27 @@ a. Clone the Repo<br>
     git clone https://github.com/cachecleanerjeet/QuotesTeleBot.git
 
 b. Go to <tt>QuotesTeleBot</tt> Directory<br>
+
+    cd QuotesTeleBot
+
 c. Install the Dependencies:<br>
 
     pip3 install -r requirements.txt
 
 d. Open <tt>settings.py</tt> and replace <tt>YOUR-API-KEY</tt> in <tt>Bot_API_KEY</tt> Section<br>
+    
+    ## Previously
+    Bot_API_KEY = "YOUR-API-KEY"
+    ## After Enter your own Key
+    Bot_API_KEY = "123456:abcdefghijklmnopqrstuvwxyz"
+
 e. Open <tt>main.py</tt> and change <tt>QUOTE_API_URL</tt> if You want that Bot works with your own Backend Server<br>
+
+    ## Previously
+    QUOTE_API_URL = "https://quotesapi.tuhinwin.workers.dev/"
+    ## After Enter your own Key
+    QUOTE_API_URL = "http://api.yourdomain.com/"
+
 f. Run the BOT:<br>
 
     python3 run.py 

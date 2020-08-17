@@ -1,17 +1,17 @@
 ## Quotes Telegram Bot
 
-**This Project has 2 Part :**
-*i. [Frontend](#Frontend "Frontend") *<br>
-*ii. [Backend](#Backend "Backend") * <br><br>
+**This Project has Two Parts :**<br>
+*i. [Frontend](#Frontend "Frontend")*<br>
+*ii. [Backend](#Backend "Backend")* <br><br>
 ###  Backend
 **Brief:**<br>
 *We need a server for API  Request. So I prefere Cloudflare Workers.*<br>
-**Installation: **
+**Installation:**<br>
 *Go to  <tt>backend</tt>  Branch*<br>
 *Or,*<br>
 *[Tap Here](https://github.com/cachecleanerjeet/QuotesTeleBot/tree/backend "Tap Here")*<br><br>
 
-###  Frontend
+### Frontend<br>
 **Brief:**<br>
 *We will get the Content from API when get a Quote Request from Telegram. I use Python Flask,  Request and Webhook.*<br>
 **Installation: **<br>

@@ -5,7 +5,7 @@
 #### After Deploy Change Config Vars:
 *Go To Application Settings.*<br>
 *Under 'Config Vars' section, Click Reveal Config Vars.*<br><br>
-### Config Vars are : <br>
+### Config Vars are: <br>
 
 `API_KEY`<br>
 `QUOTE_API_URL`<br><br>
@@ -14,7 +14,9 @@
 *Enter API URL of Quote Backend Server in <tt>QUOTE_API_URL</tt> Section.*<br>
 *You can use <tt>https://quotesapi.tuhinwin.workers.dev/</tt> as <tt>QUOTE_API_URL</tt>.*
 <br><br>
-
+**Like That:**
+![Config Vars](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fqtbotconvar.png?alt=media&token=8fe45d02-c09e-4153-bac4-056dd0b54cb4)
+<br><br>
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
 
